@@ -42,7 +42,7 @@ pod "GaugeKit"
 To integrate GaugeKit into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "skywinder/GaugeKit" >= 0.2
+github "skywinder/GaugeKit" >= 1.0
 ```
 
 
@@ -90,9 +90,11 @@ If you prefer not to use either of the aforementioned dependency managers, you c
 
 ## Requirements
 
-- iOS SDK **7.0** or **later** (iOS SDK **8.0** if you use it as a Framework)
-- **Swift 1.2** and **Xcode 6.3** or later 
-- **Swift 2.x.x** is also supported!
+- Xcode **8.0** or **later**
+- iOS SDK **8.1** or **later**
+- **Swift 3.x**  
+
+You can use previous releases if you are looking for support of SDKs starting from **7.0** or Swift starting from **1.2**
 
 ## Communication :speaker:
 

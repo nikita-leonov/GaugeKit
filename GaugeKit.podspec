@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "GaugeKit"
-  s.version          = "0.4.0"
+  s.version          = "1.0.0"
   s.summary          = "Kit for building custom gauges + easy reproducible Apple's style ring gauges."
   s.description      = "Kit for building custom gauges + easy reproducible Apple's style ring gauges.
                         ## Features
